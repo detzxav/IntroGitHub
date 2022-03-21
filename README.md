@@ -11,5 +11,4 @@
 
 ## Author
 
-Julian
-...
+Xaver
