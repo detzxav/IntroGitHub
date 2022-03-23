@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Xaver\SynologyDrive\Bildung\Studium\BA_MGST\SS2022\Programmierübung 2\IntroGitHub-1\myve"
+VIRTUAL_ENV="C:\Users\Xaver\SynologyDrive\Bildung\Studium\BA_MGST\SS2022\Programmierübung 2\VisualStudioCode\IntroGitHub\myve"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

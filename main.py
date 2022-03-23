@@ -1,5 +1,9 @@
+#%%
+
 from numpy import random
 
-x = random.rand(3,2)
+x = random.rand(3,5)
 
 print(x)
+
+# %%
