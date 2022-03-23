@@ -9,6 +9,6 @@
 - The main.py is a minimal Python Skript. Try to run ist with different environments.
 - To install all packages from the requirement.txt use ```pip install -r requirements.txt``` (be sure to be in the directory with the file, when You run this)
 
-## Author
+### Author
 
 Xaver!!
